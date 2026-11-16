@@ -1,6 +1,6 @@
 body {
     background-color: #0098f0;
-    color: gray;
+    color: lightgray;
     font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 logo {
@@ -11,4 +11,13 @@ nav ul {
     list-style: none;
     display: flex;
     gap: 20px;
+}
+a {
+    color: lightgray;
+}
+a:visited {
+    color: lightgray;
+}
+a:hover {
+    color: lightgray;
 }
