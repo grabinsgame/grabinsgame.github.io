@@ -3,6 +3,10 @@ body {
     color: gray;
     font-family: 'Comic Sans MS', cursive, sans-serif;
 }
+logo {
+    width: 180px;
+    height: auto;
+}
 nav ul {
     list-style: none;
     display: flex;
