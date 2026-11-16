@@ -3,7 +3,7 @@ body {
     color: lightgray;
     font-family: 'Comic Sans MS', cursive, sans-serif;
 }
-.logo {
+.logo img {
     width: 180px;
     height: auto;
 }
@@ -13,11 +13,14 @@ nav ul {
     gap: 20px;
 }
 a {
+    text-decoration: none;
     color: lightgray;
 }
 a:visited {
+    text-decoration: none;
     color: lightgray;
 }
 a:hover {
+    text-decoration: none;
     color: lightgray;
 }
