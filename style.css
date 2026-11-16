@@ -1,0 +1,10 @@
+body {
+    background-color: #0098f0;
+    color: gray;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
