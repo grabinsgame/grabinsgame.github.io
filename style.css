@@ -12,7 +12,11 @@ nav ul {
     margin: 0;
     padding: 0;
 }
-
+nav {
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
 nav li {
     float: left;
     margin-right: 20px;
