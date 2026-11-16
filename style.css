@@ -3,7 +3,7 @@ body {
     color: lightgray;
     font-family: 'Comic Sans MS', cursive, sans-serif;
 }
-logo {
+.logo {
     width: 180px;
     height: auto;
 }
