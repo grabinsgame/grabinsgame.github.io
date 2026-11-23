@@ -1,9 +1,54 @@
-@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+/* Light (300) */
+@font-face {
+    font-family: "Comic Neue";
+    src: url("fonts/ComicNeue-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Comic Neue";
+    src: url("fonts/ComicNeue-LightItalic.ttf") format("truetype");
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* Regular (400) */
+@font-face {
+    font-family: "Comic Neue";
+    src: url("fonts/ComicNeue-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Comic Neue";
+    src: url("fonts/ComicNeue-Italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Bold (700) */
+@font-face {
+    font-family: "Comic Neue";
+    src: url("fonts/ComicNeue-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Comic Neue";
+    src: url("fonts/ComicNeue-BoldItalic.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+
 body {
     background-color: #0098f0;
     color: lightgray;
-    font-family: 'Chewy', cursive;
+    font-family: "Comic Sans MS", "Comic Neue", cursive;
 }
+
 .logo img {
     width: 50px;
     height: auto;
